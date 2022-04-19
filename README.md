@@ -13,7 +13,7 @@ The streaming process can be summed into the following steps:
 5. Serve the result in the web page
 
 ## Use case
-Sometime, If you want to see the remote device or camera position only , then it will cover your use case
+If you sometime want to see your remote device or camera position only, then it will cover your use case
 
 ## Install
 This project runs with Python. Also install all dependencies listed to requirements.py by following command :
@@ -25,6 +25,6 @@ This project runs with Python. Also install all dependencies listed to requireme
 3. See the result in the browser
 
 ## Recommendations
-For high quality video streaming/sharing, don't use this, then better to use WebRtc, Socket, Jitsi video platform, peerjs etc.
-If you want to make server stream or Netflix like system then gstreamer is better.
-Otherwise, you can use this for use case
+For good quality video call/streaming, don't use this, then better to use WebRtc, Socket, Jitsi video platform, peerjs etc.
+If you want to make high quality server stream or Netflix like system then gstreamer is better choice.
+Otherwise, you can use this for above use case
